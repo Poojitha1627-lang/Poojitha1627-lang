@@ -1,7 +1,7 @@
 # Hi there, I'm Poojitha! 👋
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Poojitha1627-lang&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ### 🎓 About Me
@@ -45,9 +45,9 @@
 ### 📊 GitHub Analytics
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="Poojitha's GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Poojitha1627-lang&show_icons=true&theme=radical" alt="Poojitha's GitHub Stats" height="180px" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="Top Languages" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poojitha1627-lang&layout=compact&theme=radical" alt="Top Languages" height="180px" />
 </p>
 
 ---
@@ -61,10 +61,10 @@
 
 ### 📫 How to reach me
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_ID" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/satti-poojitha" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:poojitha1627@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
