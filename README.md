@@ -1,7 +1,7 @@
 # Hi there, I'm Poojitha! 👋
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Poojitha1627-lang&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Poojitha1627-lang.Poojitha1627-lang" alt="Profile Views" />
 </p>
 
 ### 🎓 About Me
